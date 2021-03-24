@@ -1,5 +1,7 @@
 # AdCar
-
+ 
+ I have not pushed the entire source code of my project. 
+ This code is available here for educational purposes only.
 
 ![1 Home Screen](https://user-images.githubusercontent.com/46266480/112361563-8ae5e680-8cf9-11eb-910f-6cb54c61413c.png)
 ![2 1Destination Search](https://user-images.githubusercontent.com/46266480/112361576-8e796d80-8cf9-11eb-8b76-7133a920e9ff.png)
