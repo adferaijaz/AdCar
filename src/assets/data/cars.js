@@ -1,0 +1,58 @@
+export default [
+  {
+    id: '0',
+    type: 'Premium',
+    latitude: 34.1008361,
+    longitude: 74.8042272,
+    heading: 150,
+  },
+  {
+    id: '1',
+    type: 'Express',
+    latitude: 34.1039661,
+    longitude: 74.7979972,
+    heading: 85,
+  },
+  {
+    id: '2',
+    type: 'Economy',
+    latitude: 34.1057961,
+    longitude:74.8089972,
+    heading: 190,
+  },
+  {
+    id: '3',
+    type: 'Premium',
+    latitude: 34.0983061,
+    longitude: 74.8150072,
+    heading: 75,
+  },
+  {
+    id: '4',
+    type: 'Premium',
+    latitude: 34.1108361,
+    longitude: 74.8062272,
+    heading: 172,
+  },
+  {
+    id: '5',
+    type: 'Economy',
+    latitude: 34.1002561,
+    longitude:74.8007072,
+    heading: 320,
+  },
+  {
+    id: '6',
+    type: 'Express',
+    latitude: 34.1019661,
+    longitude: 74.8199072,
+    heading: -125,
+  },
+  {
+    id: '7',
+    type: 'Economy',
+    latitude: 34.1002561,
+    longitude:74.8112072,
+    heading: 70,
+  },
+];
