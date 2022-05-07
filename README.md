@@ -1,7 +1,7 @@
-# AdCar
-AdCar is not a taxi service. Drivers cannot pick up riders off the street. Instead, AdCar is a car-for-hire service that relies on smartphone technology to dispatch drivers and manage fees. Also unlike taxi services, AdCar drivers do not possess special licenses; rather, they use their personal vehicles to offer discounted fare rides. 
-AdCar's smartphone app takes care of the entire ride-hailing and payment process. Use your credit or debit card to pay right in the app, with no need for cash.
-You must be 18 years or older to have an AdCar account and use the service. In India, AdCar drivers must be at least 21 years old, have at least one year of licensed driving experience, and drive an acceptable four-door vehicle.
+# safar
+safar is not a taxi service. Drivers cannot pick up riders off the street. Instead, safar is a car-for-hire service that relies on smartphone technology to dispatch drivers and manage fees. Also unlike taxi services, safar drivers do not possess special licenses; rather, they use their personal vehicles to offer discounted fare rides. 
+safar's smartphone app takes care of the entire ride-hailing and payment process. Use your credit or debit card to pay right in the app, with no need for cash.
+You must be 18 years or older to have an safar account and use the service. In India, safar drivers must be at least 21 years old, have at least one year of licensed driving experience, and drive an acceptable four-door vehicle.
 
 ![1 Home Screen](https://user-images.githubusercontent.com/46266480/112363256-4e1aef00-8cfb-11eb-8dc6-0fc2c3a5f47a.png)
 ![2 1Destination Search](https://user-images.githubusercontent.com/46266480/112363278-5410d000-8cfb-11eb-8b04-45588ec4eaee.png)
